@@ -15,7 +15,7 @@ A collection of papers, tools about typer infer, variable renaming on binary exe
 
 ## Tools
 - 2019 [in_nomine_function](https://github.com/lucamassarelli/in_nomine_function)
-- 2019 [Dire](https://github.com/pcyin/dire)
+- 2019 [Dire](https://github.com/pcyin/dire) && [New URL](https://github.com/CMUSTRUDEL/DIRE) && [datasets](https://zenodo.org/record/3403078#.XtTi-TozaUk)
 - 2018 [DEBIN](https://github.com/eth-sri/debin) && [debin.ai](https://debin.ai/)
 - 2017 [EKLAVYA](https://github.com/shensq04/EKLAVYA)
 - 2018 [decomp](https://github.com/decomp/decomp)
