@@ -10,7 +10,8 @@ A collection of papers, tools about typer infer on binary executables.
 - [USENIX 2017]: [Neural Nets Can Learn Function Type  Signatures From Binaries](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/chua) [[EKLAVYA]](https://github.com/shensq04/EKLAVYA)
 - [ACMCS 2016]: [Type Inference on Executables](https://dl.acm.org/doi/10.1145/2896499)
 - [PLDI 2013]: [Scalable variable and data type detection in a binary rewriter](https://dl.acm.org/doi/10.1145/2491956.2462165)
-
+- [NDSS 2011]: [TIE: Principled reverse engineering of types in binary programs](https://www.ndss-symposium.org/ndss2011/tie-principled-reverse-engineering-of-types-in-binary-programs/)
+- [NDSS 2010]: [Automatic Reverse Engineering of Data Structures from Binary Execution](https://www.ndss-symposium.org/ndss2010/automatic-reverse-engineering-data-structures-binary-execution/)
 
 ## Tools
 - 2019 [in_nomine_function](https://github.com/lucamassarelli/in_nomine_function)
