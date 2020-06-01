@@ -1,5 +1,5 @@
 # awesome-type-infer
-A collection of papers, tools about typer infer on binary executables.
+A collection of papers, tools about typer infer, variable renaming on binary executables.
 
 ## Papers
 - [Arxiv 2019]: [In Nomine Function: Naming Functions in Stripped Binaries with Neural Networks](https://arxiv.org/abs/1912.07946v2) [[in_nomine_function]](https://github.com/lucamassarelli/in_nomine_function)
