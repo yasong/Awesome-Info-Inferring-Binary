@@ -1,7 +1,10 @@
 # awesome-type-infer
-A collection of papers, tools about typer infer, variable renaming on binary executables.
+### A collection of papers, tools about typer infer, variable renaming, function name inferring on stripped binary executables.
 
 ## Papers
+- [ISSTA 2021]: [A Lightweight Framework for Function Name Reassignment
+Based on Large-Scale Stripped Binaries](https://dl.acm.org/doi/10.1145/3460319.3464804).--[[NFRE]](https://github.com/USTC-TTCN/NFRE)
+- [ESEC/FSE 2021]: [StateFormer: Fine-Grained Type Recovery from Binaries using Generative State Modeling](https://www.cs.columbia.edu/~suman/docs/stateformer.pdf).--[[StateFormer]](https://github.com/CUMLSec/stateformer)
 - [S&P 2021]: [OSPREY: Recovery of Variable and Data Structure via Probabilistic Analysis for Stripped Binary](https://www.cs.purdue.edu/homes/zhan3299/res/SP21a.pdf).--[[OSPREY]]()
 - [CCS 2020]: [Devil Is Virtual: Reversing Virtual Inheritance in C++ Binaries](https://arxiv.org/abs/2003.05039v1).
 - [OOPLSA 2020]: [Neural reverse engineering of stripped binaries using augmented control flow graphs](https://arxiv.org/abs/1902.09122v4).
@@ -51,7 +54,7 @@ A collection of papers, tools about typer infer, variable renaming on binary exe
 | 2018                           | OOAnalyzer \[ \]   | CCS      |          |   |   |                                    |
 | 2018                           | Naming \[ \]       | ICPC     |          |   |   |                                    |
 | 2019                           | TypeMiner \[ \]    | DIMVA    |          |   |   |                                    |
-| 2019                           | BITY \[ \]         | IEEETR   |          |   |   |https://github.com/wcventure/BITY   |
+| 2019                           | BITY \[ \]         | IEEETR   |          |   |   | https://github.com/wcventure/BITY  |
 | 2019                           | DeClassifier \[ \] | CCS      |          |   |   |                                    |
 | 2019                           | Coda \[ \]         | NeurIPS  |          |   |   |                                    |
 | 2019                           | DIRE \[ \]         | ASE      |          |   |   |                                    |
@@ -60,6 +63,8 @@ A collection of papers, tools about typer infer, variable renaming on binary exe
 | 2020                           | Nero \[ \]         | OOPSLA   |          |   |   | https://github.com/tech-srl/Nero   |
 | 2020                           | VirtAnalyzer \[ \] | CCS      |          |   |   |                                    |
 | 2021                           | OSPREY \[ \]       | S&P      | S        |   |   |                                    |
+| 2021                           | NFRE \[ \]         | ISSTA    |          |   |   | https://github.com/USTC-TTCN/NFRE  |
+| 2021                           | StateFormer \[ \]  | ESEC\FSE |          |   |   | https://github.com/CUMLSec/stateformer |
 
 
 
@@ -96,6 +101,9 @@ A collection of papers, tools about typer infer, variable renaming on binary exe
 - [31] Erinfolami, Rukayat Ayomide, and Aravind Prakash. 2020. “Devil Is Virtual: Reversing Virtual Inheritance in C++ Binaries.” In Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security, 133–48.
 - [32]	Zhuo Zhang, Yapeng Ye, Wei You, Guanhong Tao, Wen-chuan Lee, Yonghwi Kwon, Yousra Aafer, Xiangyu Zhang. 2021. OSPREY: Recovery of Variable and Data Structure via Probabilistic Analysis for Stripped Binary. Proceedings of the 42th IEEE Symposiums on Security and Privacy. (Oakland 2021).
 - [33] Xu, Z., Wen, C., & Qin, S. 2018. Type Learning for Binaries and its Applications. IEEE Transactions on Reliability, 68(3), 893-912.
+- [34] Gao, H., Cheng, S., Xue, Y., & Zhang, W. 2021. A lightweight framework for function name reassignment based on large-scale stripped binaries. In Proceedings of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis pp. 607–619.
+- [35] K. Pei, J. Guan, M. Broughton, Z. Chen, S. Yao, D. Williams-King, V. Ummadisetty, J. Yang, B. Ray, and S. Jana. StateFormer: Fine-Grained Type Recovery from Binaries using Generative State Modeling. FSE 2021
+
 
 
 
