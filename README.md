@@ -7,7 +7,7 @@ Based on Large-Scale Stripped Binaries](https://dl.acm.org/doi/10.1145/3460319.3
 - [ESEC/FSE 2021]: [StateFormer: Fine-Grained Type Recovery from Binaries using Generative State Modeling](https://www.cs.columbia.edu/~suman/docs/stateformer.pdf).--[[StateFormer]](https://github.com/CUMLSec/stateformer)
 - [S&P 2021]: [OSPREY: Recovery of Variable and Data Structure via Probabilistic Analysis for Stripped Binary](https://www.cs.purdue.edu/homes/zhan3299/res/SP21a.pdf).--[[OSPREY]]()
 - [CCS 2020]: [Devil Is Virtual: Reversing Virtual Inheritance in C++ Binaries](https://arxiv.org/abs/2003.05039v1).
-- [OOPLSA 2020]: [Neural reverse engineering of stripped binaries using augmented control flow graphs](https://arxiv.org/abs/1902.09122v4).
+- [OOPLSA 2020]: [Neural reverse engineering of stripped binaries using augmented control flow graphs](https://arxiv.org/abs/1902.09122v4).--[[Nerp]](https://github.com/tech-srl/Nero)
 - [DSN 2020]: [CATI: Context-Assisted Type Inference from Stripped Binaries](https://ieeexplore.ieee.org/document/9153442).
 - [PLDI 2020]: [Typilus: Neural Type Hints](https://export.arxiv.org/abs/2004.10657).
 - [Arxiv 2019]: [In Nomine Function: Naming Functions in Stripped Binaries with Neural Networks](https://arxiv.org/abs/1912.07946v2).--[[in_nomine_function]](https://github.com/lucamassarelli/in_nomine_function)
