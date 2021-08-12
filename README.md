@@ -1,5 +1,5 @@
 # awesome-type-infer
-### A collection of papers, tools about typer infer, variable renaming, function name inferring on stripped binary executables.
+### A collection of papers, tools about type inferring, variable renaming, function name inferring on stripped binary executables.
 
 ## Papers
 - [ISSTA 2021]: [A Lightweight Framework for Function Name Reassignment
