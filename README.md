@@ -8,7 +8,7 @@
 | [StateFormer: Fine-Grained Type Recovery from Binaries using Generative State Modeling](https://www.cs.columbia.edu/~suman/docs/stateformer.pdf) | ESEC/FSE | 2021 | S | V | [StateFormer](https://github.com/CUMLSec/stateformer) | D |
 | [OSPREY: Recovery of Variable and Data Structure via Probabilistic Analysis for Stripped Binary](https://www.cs.purdue.edu/homes/zhan3299/res/SP21a.pdf) | S&P (Oakland) | 2021 | S | [V](https://youtu.be/RugYdcF8-uc) | OSPREY| D |
 | [Devil Is Virtual: Reversing Virtual Inheritance in C++ Binaries](https://arxiv.org/abs/2003.05039v1) | CCS | 2020 | S | V | G | D |
-| [Neural reverse engineering of stripped binaries using augmented control flow graphs](https://arxiv.org/abs/1902.09122v4)| OOPLSA | 2020 | S | V| [Nero](https://github.com/tech-srl/Nero) | D |
+| [Neural reverse engineering of stripped binaries using augmented control flow graphs](https://arxiv.org/abs/1902.09122v4)| OOPLSA | 2020 | [S](https://www.cs.technion.ac.il/~biham/Workshops/Cyberday/2020/Slides/yaniv-david.slides.pdf) | V| [Nero](https://github.com/tech-srl/Nero) | D |
 | [CATI: Context-Assisted Type Inference from Stripped Binaries](https://ieeexplore.ieee.org/document/9153442) | DSN | 2020 | S | V | G | D |
 | [Typilus: Neural Type Hints](https://export.arxiv.org/abs/2004.10657) | PLDI | 2020 | S | V | G | D |
 | [In Nomine Function: Naming Functions in Stripped Binaries with Neural Networks](https://arxiv.org/abs/1912.07946v2)| Arxiv | 2019 | S | V | [in_nomine_function](https://github.com/lucamassarelli/in_nomine_function) | D |
