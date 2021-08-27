@@ -1,4 +1,4 @@
-# awesome-type-inferring
+# Awesome-Info-Inferring-Binary
 ### A collection of papers, tools about type inferring, variable renaming, function name inferring on stripped binary executables.
 
 ## Papers
