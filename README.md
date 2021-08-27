@@ -18,7 +18,7 @@
 | [DEBIN:Predicting Debug Information in Stripped Binaries](https://files.sri.inf.ethz.ch/website/papers/ccs18-debin.pdf) | CCS | 2018 | S | V | [DEBIN](https://github.com/eth-sri/debin) && [debin.ai](https://debin.ai/) | D |
 | [Meaningful variable names for decompiled code: a machine translation approach](https://dl.acm.org/doi/10.1145/3196321.3196330) | ICPC | 2018 | S | V | G | D |
 | [Neural Nets Can Learn Function Type  Signatures From Binaries](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/chua) | USENIX | 2017 | S | [V](https://youtu.be/eCF002qNntk) | [EKLAVYA](https://github.com/shensq04/EKLAVYA)| D |
-| [DSIbin: Identifying Dynamic Data Structures in C/C++ Binaries](https://www.swt-bamberg.de/luettgen/publications/pdf/ASE2017.pdf) | ASE | 2017 | S | V | DSIbin | D |
+| [DSIbin: Identifying Dynamic Data Structures in C/C++ Binaries](https://www.swt-bamberg.de/luettgen/publications/pdf/ASE2017.pdf) | ASE | 2017 | S | V | [DSIbin](https://github.com/uniba-swt/DSIbin) | D |
 | [A Tough call: Mitigating Advanced Code-Reuse Attacks At The Binary Level]()| S&P (Oakland) | 2016 | [S](https://vvdveen.com/publications/TypeArmor.slides.pdf) | V | [TypeArmor](https://github.com/vusec/typearmor) | D |
 | [Type Inference on Executables](https://dl.acm.org/doi/10.1145/2896499) | ACMCS | 2016 | S | V | G | D |
 | [Scalable variable and data type detection in a binary rewriter](https://dl.acm.org/doi/10.1145/2491956.2462165) | PLDI |  2013 | S | V | G | D |
