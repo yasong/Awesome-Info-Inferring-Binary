@@ -2,24 +2,25 @@
 ### A collection of papers, tools about type inferring, variable renaming, function name inferring on stripped binary executables.
 
 ## Papers
-- [ISSTA 2021]: [A Lightweight Framework for Function Name Reassignment
-Based on Large-Scale Stripped Binaries](https://dl.acm.org/doi/10.1145/3460319.3464804).--[[NFRE]](https://github.com/USTC-TTCN/NFRE)
-- [ESEC/FSE 2021]: [StateFormer: Fine-Grained Type Recovery from Binaries using Generative State Modeling](https://www.cs.columbia.edu/~suman/docs/stateformer.pdf).--[[StateFormer]](https://github.com/CUMLSec/stateformer)
-- [S&P 2021]: [OSPREY: Recovery of Variable and Data Structure via Probabilistic Analysis for Stripped Binary](https://www.cs.purdue.edu/homes/zhan3299/res/SP21a.pdf).--[[OSPREY]]()
-- [CCS 2020]: [Devil Is Virtual: Reversing Virtual Inheritance in C++ Binaries](https://arxiv.org/abs/2003.05039v1).
-- [OOPLSA 2020]: [Neural reverse engineering of stripped binaries using augmented control flow graphs](https://arxiv.org/abs/1902.09122v4).--[[Nerp]](https://github.com/tech-srl/Nero)
-- [DSN 2020]: [CATI: Context-Assisted Type Inference from Stripped Binaries](https://ieeexplore.ieee.org/document/9153442).
-- [PLDI 2020]: [Typilus: Neural Type Hints](https://export.arxiv.org/abs/2004.10657).
-- [Arxiv 2019]: [In Nomine Function: Naming Functions in Stripped Binaries with Neural Networks](https://arxiv.org/abs/1912.07946v2).--[[in_nomine_function]](https://github.com/lucamassarelli/in_nomine_function)
-- [ASE 2019]: [DIRE: A Neural Approach to Decompiled Identifier Naming](https://ieeexplore.ieee.org/document/8952404).--[[Dire]](https://github.com/pcyin/dire)
-- [IEEETR 2019]: [Type Learning for Binaries and its Applications](https://ieeexplore.ieee.org/document/8588310).--[[BITY]](https://github.com/wcventure/BITY)
-- [CCS 2018]: [DEBIN:Predicting Debug Information in Stripped Binaries](https://files.sri.inf.ethz.ch/website/papers/ccs18-debin.pdf).--[[DEBIN]](https://github.com/eth-sri/debin) && [debin.ai](https://debin.ai/)
-- [ICPC 2018]: [Meaningful variable names for decompiled code: a machine translation approach](https://dl.acm.org/doi/10.1145/3196321.3196330).
-- [USENIX 2017]: [Neural Nets Can Learn Function Type  Signatures From Binaries](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/chua).--[[EKLAVYA]](https://github.com/shensq04/EKLAVYA)
-- [ACMCS 2016]: [Type Inference on Executables](https://dl.acm.org/doi/10.1145/2896499).
-- [PLDI 2013]: [Scalable variable and data type detection in a binary rewriter](https://dl.acm.org/doi/10.1145/2491956.2462165).
-- [NDSS 2011]: [TIE: Principled reverse engineering of types in binary programs](https://www.ndss-symposium.org/ndss2011/tie-principled-reverse-engineering-of-types-in-binary-programs/).
-- [NDSS 2010]: [Automatic Reverse Engineering of Data Structures from Binary Execution](https://www.ndss-symposium.org/ndss2010/automatic-reverse-engineering-data-structures-binary-execution/).
+|    Paper        |    Venue     | Year |     Slide      |       Video      |       Source Code       | Dataset                |
+| :-------------: | :----------: | :--: |  :-----------: | :--------------: | :---------------------: |:---------------------: |
+| [A Lightweight Framework for Function Name Reassignment Based on Large-Scale Stripped Binaries](https://dl.acm.org/doi/10.1145/3460319.3464804) | ISSTA | 2021 |- | - | [NFRE](https://github.com/USTC-TTCN/NFRE)| - |
+| [StateFormer: Fine-Grained Type Recovery from Binaries using Generative State Modeling](https://www.cs.columbia.edu/~suman/docs/stateformer.pdf) | ESEC/FSE | 2021 | - | - | [StateFormer](https://github.com/CUMLSec/stateformer) | - |
+| [OSPREY: Recovery of Variable and Data Structure via Probabilistic Analysis for Stripped Binary](https://www.cs.purdue.edu/homes/zhan3299/res/SP21a.pdf) | S&P (Oakland) | 2021 | - | - | OSPREY| - |
+| [Devil Is Virtual: Reversing Virtual Inheritance in C++ Binaries](https://arxiv.org/abs/2003.05039v1) | CCS | 2020 | - | - | - | - |
+| [Neural reverse engineering of stripped binaries using augmented control flow graphs](https://arxiv.org/abs/1902.09122v4)| OOPLSA | 2020 | - | -| [Nero](https://github.com/tech-srl/Nero) | - |
+| [CATI: Context-Assisted Type Inference from Stripped Binaries](https://ieeexplore.ieee.org/document/9153442) | DSN | 2020 | - | - | - | - |
+| [Typilus: Neural Type Hints](https://export.arxiv.org/abs/2004.10657) | PLDI | 2020 | - | - | - | - |
+| [In Nomine Function: Naming Functions in Stripped Binaries with Neural Networks](https://arxiv.org/abs/1912.07946v2)| Arxiv | 2019 | - | - | [in_nomine_function](https://github.com/lucamassarelli/in_nomine_function) | - |
+| [DIRE: A Neural Approach to Decompiled Identifier Naming](https://ieeexplore.ieee.org/document/8952404) | ASE | 2019 | - | - | [Dire](https://github.com/pcyin/dire)| - |
+| [Type Learning for Binaries and its Applications](https://ieeexplore.ieee.org/document/8588310) | IEEETR | 2019 | - | - | [BITY](https://github.com/wcventure/BITY) | - |
+| [DEBIN:Predicting Debug Information in Stripped Binaries](https://files.sri.inf.ethz.ch/website/papers/ccs18-debin.pdf) | CCS | 2018 | - | - | [DEBIN](https://github.com/eth-sri/debin) && [debin.ai](https://debin.ai/) | - |
+| [Meaningful variable names for decompiled code: a machine translation approach](https://dl.acm.org/doi/10.1145/3196321.3196330) | ICPC | 2018 | - | - | - | - |
+| [Neural Nets Can Learn Function Type  Signatures From Binaries](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/chua) | - USENIX | 2017 | - | - | [EKLAVYA](https://github.com/shensq04/EKLAVYA)| - |
+| [Type Inference on Executables](https://dl.acm.org/doi/10.1145/2896499) | ACMCS | 2016 | - | - | - |  - |
+| [Scalable variable and data type detection in a binary rewriter](https://dl.acm.org/doi/10.1145/2491956.2462165) | PLDI |  2013 | - | - | - |  - |
+| [TIE: Principled reverse engineering of types in binary programs](https://www.ndss-symposium.org/ndss2011/tie-principled-reverse-engineering-of-types-in-binary-programs/) | NDSS | 2011 | - | - | - | - |
+| [Automatic Reverse Engineering of Data Structures from Binary Execution](https://www.ndss-symposium.org/ndss2010/automatic-reverse-engineering-data-structures-binary-execution/) | NDSS 2010 | - | - | - | - |
 
 ## Tools
 - 2019 [in_nomine_function](https://github.com/lucamassarelli/in_nomine_function)
