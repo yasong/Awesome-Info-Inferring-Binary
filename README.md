@@ -6,7 +6,7 @@
 | :-------------: | :----------: | :--: |  :-----------: | :--------------: | :---------------------: |:---------------------: |
 | [XFL: eXtreme Function Labeling](https://arxiv.org/pdf/2107.13404.pdf) | Arxiv | 2021 | S |  V | XFL | D |
 | [Variable Name Recovery in Decompiled Binary Code using Constrained Masked Language Modeling](https://arxiv.org/pdf/2103.12801.pdf) | Arxiv | 2021 | S |  V | G | D |
-| [DIRTY: Augmenting Decompiler Output with Learned Variable Names and Types](https://www.usenix.org/system/files/sec22summer_chen-qibin.pdf) | Usenix Sec | 2022 | S |  V | [DIRTY](https://github.com/CMUSTRUDEL/DIRTY) \| [explorer](https://dirtdirty.github.io/explorer.html) | D |
+| [DIRTY: Augmenting Decompiler Output with Learned Variable Names and Types](https://www.usenix.org/system/files/sec22summer_chen-qibin.pdf) | Usenix Sec | 2022 | S |  V | [DIRTY](https://github.com/CMUSTRUDEL/DIRTY) \| [Demo](https://dirtdirty.github.io/explorer.html) | D |
 | [A Lightweight Framework for Function Name Reassignment Based on Large-Scale Stripped Binaries](https://dl.acm.org/doi/10.1145/3460319.3464804) | ISSTA | 2021 | S | V | [NFRE](https://github.com/USTC-TTCN/NFRE)| D |
 | [StateFormer: Fine-Grained Type Recovery from Binaries using Generative State Modeling](https://www.cs.columbia.edu/~suman/docs/stateformer.pdf) | ESEC/FSE | 2021 | S | V | [StateFormer](https://github.com/CUMLSec/stateformer) | D |
 | [OSPREY: Recovery of Variable and Data Structure via Probabilistic Analysis for Stripped Binary](https://www.cs.purdue.edu/homes/zhan3299/res/SP21a.pdf) | S&P (Oakland) | 2021 | S | [V](https://youtu.be/RugYdcF8-uc) | OSPREY| D |
