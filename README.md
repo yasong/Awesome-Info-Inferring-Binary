@@ -4,6 +4,7 @@
 ## Papers
 |    Paper        |    Venue     | Year |     Slide      |       Video      |       Source Code       | Dataset                |
 | :-------------: | :----------: | :--: |  :-----------: | :--------------: | :---------------------: |:---------------------: |
+| [DIRECT : A Transformer-based Model for Decompiled Variable Name Recovery](https://aclanthology.org/2021.nlp4prog-1.6.pdf) | nlp4prog | 2021 | S | V | [DIRECT-nlp4prog](https://github.com/DIRECT-team/DIRECT-nlp4prog) | [D](https://drive.google.com/drive/folders/19Rf7NtW56r6fz-ycldZq9hjxNr5osAJW?usp=sharing)|
 | [XFL: eXtreme Function Labeling](https://arxiv.org/pdf/2107.13404.pdf) | Arxiv | 2021 | S |  V | XFL | D |
 | [Variable Name Recovery in Decompiled Binary Code using Constrained Masked Language Modeling](https://arxiv.org/pdf/2103.12801.pdf) | Arxiv | 2021 | S |  V | G | D |
 | [DIRTY: Augmenting Decompiler Output with Learned Variable Names and Types](https://www.usenix.org/system/files/sec22summer_chen-qibin.pdf) | Usenix Sec | 2022 | S |  V | [DIRTY](https://github.com/CMUSTRUDEL/DIRTY) \| [Demo](https://dirtdirty.github.io/explorer.html) | D |
