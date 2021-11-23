@@ -6,7 +6,7 @@
 | :-------------: | :----------: | :--: |  :-----------: | :--------------: | :---------------------: |:---------------------: |
 | [XFL: eXtreme Function Labeling](https://arxiv.org/pdf/2107.13404.pdf) | Arxiv | 2021 | S |  V | XFL | D |
 | [Variable Name Recovery in Decompiled Binary Code using Constrained Masked Language Modeling](https://arxiv.org/pdf/2103.12801.pdf) | Arxiv | 2021 | S |  V | G | D |
-| [DIRTY: Augmenting Decompiler Output with Learned Variable Names and Types](https://arxiv.org/pdf/2108.06363v1.pdf) | Usenix Sec | 2022 | S |  V | [DIRTY](https://github.com/CMUSTRUDEL/DIRTY) \| [explorer](https://dirtdirty.github.io/explorer.html) | D |
+| [DIRTY: Augmenting Decompiler Output with Learned Variable Names and Types](https://www.usenix.org/system/files/sec22summer_chen-qibin.pdf) | Usenix Sec | 2022 | S |  V | [DIRTY](https://github.com/CMUSTRUDEL/DIRTY) \| [explorer](https://dirtdirty.github.io/explorer.html) | D |
 | [A Lightweight Framework for Function Name Reassignment Based on Large-Scale Stripped Binaries](https://dl.acm.org/doi/10.1145/3460319.3464804) | ISSTA | 2021 | S | V | [NFRE](https://github.com/USTC-TTCN/NFRE)| D |
 | [StateFormer: Fine-Grained Type Recovery from Binaries using Generative State Modeling](https://www.cs.columbia.edu/~suman/docs/stateformer.pdf) | ESEC/FSE | 2021 | S | V | [StateFormer](https://github.com/CUMLSec/stateformer) | D |
 | [OSPREY: Recovery of Variable and Data Structure via Probabilistic Analysis for Stripped Binary](https://www.cs.purdue.edu/homes/zhan3299/res/SP21a.pdf) | S&P (Oakland) | 2021 | S | [V](https://youtu.be/RugYdcF8-uc) | OSPREY| D |
@@ -20,7 +20,7 @@
 | [DeClassifier: Class-Inheritance Inference Engine for Optimized C++ Binaries](https://arxiv.org/pdf/1901.10073.pdf) | AsiaCCS | 2019 | S | V | DeClassifier | D |
 | [DEBIN:Predicting Debug Information in Stripped Binaries](https://files.sri.inf.ethz.ch/website/papers/ccs18-debin.pdf) | CCS | 2018 | S | V | [DEBIN](https://github.com/eth-sri/debin) && [debin.ai](https://debin.ai/) | D |
 | [Meaningful variable names for decompiled code: a machine translation approach](https://dl.acm.org/doi/10.1145/3196321.3196330) | ICPC | 2018 | S | V | G | D |
-| [Neural Nets Can Learn Function Type  Signatures From Binaries](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/chua) | USENIX | 2017 | S | [V](https://youtu.be/eCF002qNntk) | [EKLAVYA](https://github.com/shensq04/EKLAVYA)| D |
+| [Neural Nets Can Learn Function Type  Signatures From Binaries](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/chua) | Usenix Sec | 2017 | S | [V](https://youtu.be/eCF002qNntk) | [EKLAVYA](https://github.com/shensq04/EKLAVYA)| D |
 | [DSIbin: Identifying Dynamic Data Structures in C/C++ Binaries](https://www.swt-bamberg.de/luettgen/publications/pdf/ASE2017.pdf) | ASE | 2017 | S | V | [DSIbin](https://github.com/uniba-swt/DSIbin) | D |
 | [A Tough call: Mitigating Advanced Code-Reuse Attacks At The Binary Level]()| S&P (Oakland) | 2016 | [S](https://vvdveen.com/publications/TypeArmor.slides.pdf) | V | [TypeArmor](https://github.com/vusec/typearmor) | D |
 | [Type Inference on Executables](https://dl.acm.org/doi/10.1145/2896499) | ACMCS | 2016 | S | V | G | D |
