@@ -14,7 +14,7 @@
 | [Devil Is Virtual: Reversing Virtual Inheritance in C++ Binaries](https://arxiv.org/abs/2003.05039v1) | CCS | 2020 | S | V | G | D |
 | [Neural reverse engineering of stripped binaries using augmented control flow graphs](https://arxiv.org/abs/1902.09122v4)| OOPLSA | 2020 | [S](https://www.cs.technion.ac.il/~biham/Workshops/Cyberday/2020/Slides/yaniv-david.slides.pdf) | V| [Nero](https://github.com/tech-srl/Nero) | D |
 | [CATI: Context-Assisted Type Inference from Stripped Binaries](https://ieeexplore.ieee.org/document/9153442) | DSN | 2020 | S | V | G | D |
-| [Typilus: Neural Type Hints](https://export.arxiv.org/abs/2004.10657) | PLDI | 2020 | S | V | [Typilus_url](https://github.com/JetBrains-Research/typilus) | D |
+| [Typilus: Neural Type Hints](https://export.arxiv.org/abs/2004.10657) | PLDI | 2020 | S | V | [Typilus](https://github.com/JetBrains-Research/typilus) | D |
 | [In Nomine Function: Naming Functions in Stripped Binaries with Neural Networks](https://arxiv.org/abs/1912.07946v2)| Arxiv | 2019 | S | V | [in_nomine_function](https://github.com/lucamassarelli/in_nomine_function) | D |
 | [DIRE: A Neural Approach to Decompiled Identifier Naming](https://ieeexplore.ieee.org/document/8952404) | ASE | 2019 | S | V | [Dire](https://github.com/pcyin/dire)| [D](https://zenodo.org/record/3403078#.YZxV7j5Bzep) |
 | [Type Learning for Binaries and its Applications](https://ieeexplore.ieee.org/document/8588310) | IEEETR | 2019 | S | V | [BITY](https://github.com/wcventure/BITY) | D |
