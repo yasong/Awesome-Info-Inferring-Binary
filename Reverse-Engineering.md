@@ -4,6 +4,7 @@
 ## Papers
 |    Paper        |    Venue     | Year |     Slide      |       Video      |       Source Code       | Dataset                |
 | :-------------: | :----------: | :--: |  :-----------: | :--------------: | :---------------------: |:---------------------: |
+| [ZEKRA: Zero-Knowledge Control-Flow Attestation]() | AsiaCCS | 2023 | S |V | [ZEKRA](https://github.com/HeiniDebes/ZEKRA) | D| 
 | [CALLEE: Recovering Call Graphs for Binaries with Transfer and Contrastive Learning](https://arxiv.org/pdf/2111.01415.pdf) | S&P | 2023 | S | V | [Callee](https://github.com/vul337/Callee)  | D |
 | [DEEPDI: Learning a Relational Graph Convolutional Network Model on Instructions for Fast and Accurate Disassembly](https://www.usenix.org/system/files/sec22summer_yu-sheng.pdf) | Usenix Sec | 2022 | S | V | [DeepDi](https://github.com/DeepBitsTechnology/DeepDi) | D|
 | [iCallee: Recovering Call Graphs for Binaries](https://arxiv.org/pdf/2111.01415v1.pdf) | Arxiv | 2021 | S | V | G | D |
