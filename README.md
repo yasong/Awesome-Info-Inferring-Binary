@@ -4,6 +4,7 @@
 ## Papers
 |    Paper        |    Venue     | Year |     Slide      |       Video      |       Source Code       | Dataset                |
 | :-------------: | :----------: | :--: |  :-----------: | :--------------: | :---------------------: |:---------------------: |
+| A Transformer-based Function Symbol Name Inference Model from an Assembly Language for Binary Reversing | AsiaCCS | 2023 | S | V | [AsmDepictor](https://github.com/agwaBom/AsmDepictor) | D |
 | [SymLM: Predicting Function Names in Stripped Binaries via Context-Sensitive Execution-Aware Code Embeddings](https://xinjin95.github.io/assets/pdf/SymLM_ccs2022_paper.pdf) | CCS | 2022 | S | V | [SymLM](https://github.com/OSUSecLab/SymLM) | [SymLM](https://github.com/OSUSecLab/SymLM) |
 | [DnD: A Cross-Architecture Deep Neural Network Decompiler](https://wuruoyu.github.io/assets/pdf/dnd.pdf) | Usenix Sec | 2022 | S | V | [DnD](https://github.com/purseclab/DnD) | D |
 | [DIRECT : A Transformer-based Model for Decompiled Variable Name Recovery](https://aclanthology.org/2021.nlp4prog-1.6.pdf) | nlp4prog | 2021 | S | V | [DIRECT-nlp4prog](https://github.com/DIRECT-team/DIRECT-nlp4prog) | [D](https://drive.google.com/drive/folders/19Rf7NtW56r6fz-ycldZq9hjxNr5osAJW?usp=sharing)|
