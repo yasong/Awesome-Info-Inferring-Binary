@@ -4,6 +4,7 @@
 ## Papers
 |    Paper        |    Venue     | Year |     Slide      |       Video      |       Source Code       | Dataset                |
 | :-------------: | :----------: | :--: |  :-----------: | :--------------: | :---------------------: |:---------------------: |
+| [CFG2VEC: Hierarchical Graph Neural Network for Cross-Architectural Software Reverse Engineering](https://arxiv.org/pdf/2301.02723.pdf)| ICSE | 2023| S | V | [CFG2VEC](https://github.com/AICPS/mindsight_cfg2vec) | |
 | A Transformer-based Function Symbol Name Inference Model from an Assembly Language for Binary Reversing | AsiaCCS | 2023 | S | V | [AsmDepictor](https://github.com/agwaBom/AsmDepictor) | D |
 | [SymLM: Predicting Function Names in Stripped Binaries via Context-Sensitive Execution-Aware Code Embeddings](https://xinjin95.github.io/assets/pdf/SymLM_ccs2022_paper.pdf) | CCS | 2022 | S | V | [SymLM](https://github.com/OSUSecLab/SymLM) | [SymLM](https://github.com/OSUSecLab/SymLM) |
 | [DnD: A Cross-Architecture Deep Neural Network Decompiler](https://wuruoyu.github.io/assets/pdf/dnd.pdf) | Usenix Sec | 2022 | S | V | [DnD](https://github.com/purseclab/DnD) | D |
