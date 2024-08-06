@@ -4,6 +4,7 @@
 ## Papers
 |    Paper        |    Venue     | Year |     Slide      |       Video      |       Source Code       | Dataset                |
 | :-------------: | :----------: | :--: |  :-----------: | :--------------: | :---------------------: |:---------------------: |
+| [Enhancing Function Name Prediction using Votes-Based Name Tokenization and Multi-task Learning](https://dl.acm.org/doi/abs/10.1145/3660782) | Proceedings of the ACM on Software EngineeringVolume 1, Issue FSE | 2024 | S | V | Epitome | D |
 | [Ahoy SAILR! There is No Need to DREAM of C: A Compiler-Aware Structuring Algorithm for Binary Decompilation](https://www.usenix.org/system/files/sec23winter-prepub-301-basque.pdf)| Usenix Sec | 2024 | S | V | [SAILR](https://github.com/mahaloz/sailr-eval) | D |
 | ["Len or index or count, anything but v1": Predicting Variable Names in Decompilation Output with Transfer Learning](https://www.atipriya.com/files/papers/varbert_oakland24.pdf)| S&P | 2024 | S | V | [VarBERT](https://github.com/sefcom/VarBERT) | D |
 | [FunProbe: Probing Functions from Binary Code through Probabilistic Analysis](https://softsec.kaist.ac.kr/~sangkilc/papers/kim-fse23.pdf) | ESEC/FSE | 2023 | S | V | [FunProbe](https://github.com/B2R2-org/FunProbe) | D |
