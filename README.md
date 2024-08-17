@@ -4,6 +4,7 @@
 ## Papers
 |    Paper        |    Venue     | Year |     Slide      |       Video      |       Source Code       | Dataset                |
 | :-------------: | :----------: | :--: |  :-----------: | :--------------: | :---------------------: |:---------------------: |
+| [TYGR: Type Inference on Stripped Binaries using Graph Neural Networks](https://www.usenix.org/system/files/usenixsecurity24-zhu-chang.pdf) | Usenix | 2024 | S | V | [TYGR](https://github.com/sefcom/TYGR) |D |
 | [Enhancing Function Name Prediction using Votes-Based Name Tokenization and Multi-task Learning](https://dl.acm.org/doi/abs/10.1145/3660782) | Proceedings of the ACM on Software EngineeringVolume 1, Issue FSE | 2024 | S | V | Epitome | D |
 | [Ahoy SAILR! There is No Need to DREAM of C: A Compiler-Aware Structuring Algorithm for Binary Decompilation](https://www.usenix.org/system/files/sec23winter-prepub-301-basque.pdf)| Usenix Sec | 2024 | S | V | [SAILR](https://github.com/mahaloz/sailr-eval) | D |
 | ["Len or index or count, anything but v1": Predicting Variable Names in Decompilation Output with Transfer Learning](https://www.atipriya.com/files/papers/varbert_oakland24.pdf)| S&P | 2024 | S | V | [VarBERT](https://github.com/sefcom/VarBERT) | D |
