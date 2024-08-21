@@ -4,6 +4,7 @@
 ## Papers
 |    Paper        |    Venue     | Year |     Slide      |       Video      |       Source Code       | Dataset                |
 | :-------------: | :----------: | :--: |  :-----------: | :--------------: | :---------------------: |:---------------------: |
+| [ReSym: Harnessing LLMs to Recover Variable and Data Structure Symbols from Stripped Binaries](https://www.cs.purdue.edu/homes/lintan/publications/resym-ccs24.pdf) | CCS | 2024 | S | V | [ReSym](https://github.com/lt-asset/resym/) | D | 
 | [TYGR: Type Inference on Stripped Binaries using Graph Neural Networks](https://www.usenix.org/system/files/usenixsecurity24-zhu-chang.pdf) | Usenix Sec | 2024 | S | V | [TYGR](https://github.com/sefcom/TYGR) |D |
 | [Enhancing Function Name Prediction using Votes-Based Name Tokenization and Multi-task Learning](https://dl.acm.org/doi/abs/10.1145/3660782) | Proceedings of the ACM on Software EngineeringVolume 1, Issue FSE | 2024 | S | V | Epitome | D |
 | [Ahoy SAILR! There is No Need to DREAM of C: A Compiler-Aware Structuring Algorithm for Binary Decompilation](https://www.usenix.org/system/files/sec23winter-prepub-301-basque.pdf)| Usenix Sec | 2024 | S | V | [SAILR](https://github.com/mahaloz/sailr-eval) | D |
