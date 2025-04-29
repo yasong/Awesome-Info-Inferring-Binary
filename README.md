@@ -4,6 +4,7 @@
 ## Papers
 |    Paper        |    Venue     | Year |     Slide      |       Video      |       Source Code       | Dataset                |
 | :-------------: | :----------: | :--: |  :-----------: | :--------------: | :---------------------: |:---------------------: |
+| [DRAGON: Predicting Decompiled Variable Data Types with Learned Confidence Estimates](https://www.ndss-symposium.org/ndss-paper/auto-draft-629/) | BAR 2025 (NDSS) | 2025 | S | V | G | D |
 |[llasm: Naming Functions in Binaries by Fusing Encoder-only and Decoder-only LLMs](https://dl.acm.org/doi/10.1145/3702988) | TOSEM | 2025 | S | V | [llasm](https://github.com/Sandspeare/llasm) | D |
 | [ReSym: Harnessing LLMs to Recover Variable and Data Structure Symbols from Stripped Binaries](https://www.cs.purdue.edu/homes/lintan/publications/resym-ccs24.pdf) | CCS | 2024 | S | V | [ReSym](https://github.com/lt-asset/resym/) | D | 
 | [TYGR: Type Inference on Stripped Binaries using Graph Neural Networks](https://www.usenix.org/system/files/usenixsecurity24-zhu-chang.pdf) | Usenix Sec | 2024 | S | V | [TYGR](https://github.com/sefcom/TYGR) |D |
