@@ -1,9 +1,12 @@
 # Awesome-Info-Inferring-Binary
-### A collection of papers, tools about type inferring, variable renaming, function name inferring on stripped binary executables.
+### A collection of papers, tools about type inferring, variable renaming, and function name inferring on stripped binary executables.
 
 ## Papers
 |    Paper        |    Venue     | Year |     Slide      |       Video      |       Source Code       | Dataset                |
 | :-------------: | :----------: | :--: |  :-----------: | :--------------: | :---------------------: |:---------------------: |
+| [DecLLM LLM-Augmented Recompilable Decompilation for Enabling Programmatic Use of Decompiled Code](https://daoyuan14.github.io/papers/ISSTA25_DecLLM.pdf) | ISSTA | 2025 | S | V | [DecLLM](https://sites.google.com/view/decllm) | D |
+|[Unleashing the Power of Generative Model in Recovering Variable Names from Stripped Binary](https://www.ndss-symposium.org/ndss-paper/unleashing-the-power-of-generative-model-in-recovering-variable-names-from-stripped-binary/)| NDSS | 2025 | S | V | [Gennm][https://github.com/XZ-X/gennm-ndss-ae] | D |
+|[Beyond Classification: Inferring Function Names in Stripped Binaries via Domain Adapted LLMs](https://www.ndss-symposium.org/ndss-paper/beyond-classification-inferring-function-names-in-stripped-binaries-via-domain-adapted-llms/)| NDSS | 2025 | S | V |[SymGen](https://github.com/OSUSecLab/SymGen) | D |
 | [DRAGON: Predicting Decompiled Variable Data Types with Learned Confidence Estimates](https://www.ndss-symposium.org/ndss-paper/auto-draft-629/) | BAR 2025 (NDSS) | 2025 | S | V | G | D |
 |[llasm: Naming Functions in Binaries by Fusing Encoder-only and Decoder-only LLMs](https://dl.acm.org/doi/10.1145/3702988) | TOSEM | 2025 | S | V | [llasm](https://github.com/Sandspeare/llasm) | D |
 | [ReSym: Harnessing LLMs to Recover Variable and Data Structure Symbols from Stripped Binaries](https://www.cs.purdue.edu/homes/lintan/publications/resym-ccs24.pdf) | CCS | 2024 | S | V | [ReSym](https://github.com/lt-asset/resym/) | D | 
