@@ -4,6 +4,7 @@
 ## Papers
 |    Paper        |    Venue     | Year |     Slide      |       Video      |       Source Code       | Dataset                |
 | :-------------: | :----------: | :--: |  :-----------: | :--------------: | :---------------------: |:---------------------: |
+| [BLens: Contrastive Captioning of Binary Functions using Ensemble Embedding](https://www.usenix.org/conference/usenixsecurity25/presentation/benoit)| Usenix Sec | 2025 | S | V | [Blens](https://doi.org/10.5281/zenodo.14732394) | [Blens](https://doi.org/10.5281/zenodo.14732394) |
 | [DecLLM LLM-Augmented Recompilable Decompilation for Enabling Programmatic Use of Decompiled Code](https://daoyuan14.github.io/papers/ISSTA25_DecLLM.pdf) | ISSTA | 2025 | S | V | [DecLLM](https://sites.google.com/view/decllm) | D |
 |[Unleashing the Power of Generative Model in Recovering Variable Names from Stripped Binary](https://www.ndss-symposium.org/ndss-paper/unleashing-the-power-of-generative-model-in-recovering-variable-names-from-stripped-binary/)| NDSS | 2025 | S | V | [Gennm](https://github.com/XZ-X/gennm-ndss-ae) | D |
 |[Beyond Classification: Inferring Function Names in Stripped Binaries via Domain Adapted LLMs](https://www.ndss-symposium.org/ndss-paper/beyond-classification-inferring-function-names-in-stripped-binaries-via-domain-adapted-llms/)| NDSS | 2025 | S | V |[SymGen](https://github.com/OSUSecLab/SymGen) | D |
