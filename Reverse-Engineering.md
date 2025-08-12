@@ -4,9 +4,10 @@
 ## Papers
 |    Paper        |    Venue     | Year |     Slide      |       Video      |       Source Code       | Dataset                |
 | :-------------: | :----------: | :--: |  :-----------: | :--------------: | :---------------------: |:---------------------: |
+| [Tady: A Neural Disassembler without Structural Constraint Violations](https://arxiv.org/pdf/2506.13323) | Usenix Sec | 2025 | S | V | [Tady](https://github.com/5c4lar/tady) | [Tady](https://zenodo.org/records/15541312) |
 | [Disa: Accurate Learning-based Static Disassembly with Attentions](https://arxiv.org/pdf/2507.07246) | CCS | 2025 | S | V | G | D |
 |[On the Heterophily of Program Graphs: A Case Study of Graph-based Type Inference](https://dl.acm.org/doi/pdf/10.1145/3671016.3671389)| Internetware| 2024 | S | V | | D |
-|[FFXE: Dynamic Control Flow Graph Recovery for Embedded Firmware Binaries](https://www.usenix.org/system/files/sec23winter-prepub-480-tsang.pdf)| Usenix | 2024 | S | V | [FFXE](https://github.com/rchtsang/ffxe)| D |
+|[FFXE: Dynamic Control Flow Graph Recovery for Embedded Firmware Binaries](https://www.usenix.org/system/files/sec23winter-prepub-480-tsang.pdf)| Usenix Sec| 2024 | S | V | [FFXE](https://github.com/rchtsang/ffxe)| D |
 | [ZEKRA: Zero-Knowledge Control-Flow Attestation]() | AsiaCCS | 2023 | S |V | [ZEKRA](https://github.com/HeiniDebes/ZEKRA) | D| 
 | [CALLEE: Recovering Call Graphs for Binaries with Transfer and Contrastive Learning](https://arxiv.org/pdf/2111.01415.pdf) | S&P | 2023 | S | V | [Callee](https://github.com/vul337/Callee)  | D |
 | [DEEPDI: Learning a Relational Graph Convolutional Network Model on Instructions for Fast and Accurate Disassembly](https://www.usenix.org/system/files/sec22summer_yu-sheng.pdf) | Usenix Sec | 2022 | S | V | [DeepDi](https://github.com/DeepBitsTechnology/DeepDi) | D|
