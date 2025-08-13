@@ -4,6 +4,7 @@
 ## Papers
 |    Paper        |    Venue     | Year |     Slide      |       Video      |       Source Code       | Dataset                |
 | :-------------: | :----------: | :--: |  :-----------: | :--------------: | :---------------------: |:---------------------: |
+| [TypeForge: Synthesizing and Selecting Best-Fit Composite Data Types for Stripped Binaries](https://noobone123.github.io/papers/typeforge-sp25.pdf) | S&P | 2025 | S | V | [TypeForge](https://github.com/noobone123/TypeForge) | [TypeForge]()
 | [TRex: Practical Type Reconstruction for Binary Code](https://www.andrew.cmu.edu/user/bparno/papers/trex.pdf)| Usenix Sec | 2025 | S | V | [TRex](https://github.com/secure-foundations/trex) | [TRex](https://zenodo.org/records/15611995)|
 | [BLens: Contrastive Captioning of Binary Functions using Ensemble Embedding](https://www.usenix.org/conference/usenixsecurity25/presentation/benoit)| Usenix Sec | 2025 | S | V | [Blens](https://doi.org/10.5281/zenodo.14732394) | [Blens](https://doi.org/10.5281/zenodo.14732394) |
 | [DecLLM LLM-Augmented Recompilable Decompilation for Enabling Programmatic Use of Decompiled Code](https://daoyuan14.github.io/papers/ISSTA25_DecLLM.pdf) | ISSTA | 2025 | S | V | [DecLLM](https://sites.google.com/view/decllm) | D |
