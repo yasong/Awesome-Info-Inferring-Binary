@@ -4,6 +4,7 @@
 ## Papers
 |    Paper        |    Venue     | Year |     Slide      |       Video      |       Source Code       | Dataset                |
 | :-------------: | :----------: | :--: |  :-----------: | :--------------: | :---------------------: |:---------------------: |
+| [FidelityGPT: Correcting Decompilation Distortions with Retrieval Augmented Generation](https://www.ndss-symposium.org/wp-content/uploads/2026-s989-paper.pdf) | NDSS | 2026 | S | V | [FidelityGPT](https://github.com/ZhouZhiping045/FidelityGPT) | D |
 | [Tady: A Neural Disassembler without Structural Constraint Violations](https://arxiv.org/pdf/2506.13323) | Usenix Sec | 2025 | S | V | [Tady](https://github.com/5c4lar/tady) | [Tady](https://zenodo.org/records/15541312) |
 | [Disa: Accurate Learning-based Static Disassembly with Attentions](https://arxiv.org/pdf/2507.07246) | CCS | 2025 | S | V | G | D |
 |[On the Heterophily of Program Graphs: A Case Study of Graph-based Type Inference](https://dl.acm.org/doi/pdf/10.1145/3671016.3671389)| Internetware| 2024 | S | V | | D |
