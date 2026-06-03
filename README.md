@@ -4,6 +4,8 @@
 ## Papers
 |    Paper        |    Venue     | Year |     Slide      |       Video      |       Source Code       | Dataset                |
 | :-------------: | :----------: | :--: |  :-----------: | :--------------: | :---------------------: |:---------------------: |
+| [CiRCLE: Recovering Complex Data Structures in Binaries beyond Fragmentation](https://github.com/vul337/CiRCLE/blob/main/sp2026.pdf) | S&P | 2026 | S | V | [CiRCLE](https://github.com/vul337/CiRCLE) | D |
+| [HyRES: Recovering Data Structures in Binaries via SemanticEnhanced Hybrid Reasoning](https://dl.acm.org/doi/epdf/10.1145/3736719) | TOSEM | 2026 | S | V | [HyRES](https://github.com/Sandspeare/HyRES/) | D |
 | [Beyond the Edge of Function: Unraveling the Patterns of Type Recovery in Binary Code](https://arxiv.org/pdf/2503.07243v1)| TOSEM | 2025 | S | V | [ByteTR](https://github.com/giles-one/ByteTR) | D |
 | [TypeForge: Synthesizing and Selecting Best-Fit Composite Data Types for Stripped Binaries](https://noobone123.github.io/papers/typeforge-sp25.pdf) | S&P | 2025 | S | V | [TypeForge](https://github.com/noobone123/TypeForge) | [TypeForge](https://github.com/noobone123/TypeForge/tree/main/data)
 | [TRex: Practical Type Reconstruction for Binary Code](https://www.andrew.cmu.edu/user/bparno/papers/trex.pdf)| Usenix Sec | 2025 | S | V | [TRex](https://github.com/secure-foundations/trex) | [TRex](https://zenodo.org/records/15611995)|
