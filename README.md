@@ -1,10 +1,10 @@
 # Awesome-Info-Inferring-Binary
-### A collection of papers, tools about type inferring, variable renaming, and function name inferring on stripped binary executables.
+### A collection of papers and tools about type inferring, variable renaming, and function name inference on stripped binary executables.
 
 ## Papers
 |    Paper        |    Venue     | Year |     Slide      |       Video      |       Source Code       | Dataset                |
 | :-------------: | :----------: | :--: |  :-----------: | :--------------: | :---------------------: |:---------------------: |
-| [RecStruct: Recovering Nested Struct Types from Stripped Binaries via Stack-Driven Unification]() | Usenix Sec | 2026 | S | V | [RecStruct](https://zenodo.org/records/20255916) |  [RecStruct](https://zenodo.org/records/20255916) |
+| [RecStruct: Recovering Nested Struct Types from Stripped Binaries via Stack-Driven Unification](https://www.usenix.org/system/files/usenixsecurity26-chen-yuxin.pdf) | Usenix Sec | 2026 | S | V | [RecStruct](https://zenodo.org/records/20255916) |  [RecStruct](https://zenodo.org/records/20255916) |
 | [CiRCLE: Recovering Complex Data Structures in Binaries beyond Fragmentation](https://github.com/vul337/CiRCLE/blob/main/sp2026.pdf) | S&P | 2026 | S | V | [CiRCLE](https://github.com/vul337/CiRCLE) | D |
 | [HyRES: Recovering Data Structures in Binaries via SemanticEnhanced Hybrid Reasoning](https://dl.acm.org/doi/epdf/10.1145/3736719) | TOSEM | 2026 | S | V | [HyRES](https://github.com/Sandspeare/HyRES/) | D |
 | [Beyond the Edge of Function: Unraveling the Patterns of Type Recovery in Binary Code](https://arxiv.org/pdf/2503.07243v1)| TOSEM | 2025 | S | V | [ByteTR](https://github.com/giles-one/ByteTR) | D |
